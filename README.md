@@ -5,8 +5,7 @@ mini_wireshark, snort rules, current malicious_ip ids with urlhuas
 
 구현 
 
-![2g3g42g3](https://github.com/LikeyUserspray/Network_packet_analyzer/assets/98539049/73d18f29-b0a6-4055-a872-43a3e7799334)
-
+![2g3g42g3](https://github.com/LikeyUserspray/Network_packet_analyzer/assets/98539049/fb8c93af-dfad-4050-857b-bc78a23b0c9e)
 
 미니 와이어샤크의 기능처럼...
 1. 실시간 로컬 환경의 트래픽 탐지
