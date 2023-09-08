@@ -19,4 +19,4 @@ mini_wireshark, snort rules, current malicious_ip ids with urlhuas
 - urlhaus 사이트 기반 최신 악성 ip나 도메인 탐지
 
 그러나, snort rule 의 개별 실행은 완료하였으나, 코드 통합에서 프로그램이 다운 되는 오류가 발생하여 아직 수정 중에 있습니다....
-머신러닝의 경우 데이터 셋의 부족과 학습 모델의 신뢰성 문제가 있다고 판단하여 해당 기능을 제외하였습니다.
+머신러닝의 경우 데이터 셋의 부족과 학습 모델의 신뢰성 문제가 있다고 판단하여 해당 기능을 제외하였습니다.(kaggle.py)
